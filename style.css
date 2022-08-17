@@ -1,0 +1,56 @@
+#namelabel{
+    font-size:30px;
+    color:white;
+}
+#doblabel{
+    font-size:30px;
+    color:white;
+}
+#subjectlabel{
+    font-size:30px;
+    color:white;
+}
+#classlabel{
+    font-size:30px;
+    color:white;
+}
+#class{
+    font-size:30px;
+    color:white;
+}
+#name{
+    font-size:30px;
+    background-color:blue;
+    color:rgb(0, 255, 0);
+}
+#name:hover{
+    background-color:rgb(0, 255, 0);
+    color:blue;
+}
+#dob{
+    font-size:30px;
+    background-color:blue;
+    color:rgb(0, 255, 0);
+}
+#subject{
+    font-size:30px;
+    background-color:blue;
+    color:rgb(0, 255, 0);
+}
+#dob:hover{
+    background-color:rgb(0, 255, 0);
+    color:blue;
+}
+#subject:hover{
+    background-color:rgb(0, 255, 0);
+    color:blue;
+}
+#su:hover{
+    background-color:rgb(0, 255, 0);
+    color:blue;
+}
+#su{
+    background-color:blue;
+    color:rgb(0, 255, 0);
+    padding:20px;
+}
